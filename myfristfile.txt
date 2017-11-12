@@ -1,3 +1,3 @@
 This is my frist file in Git tool, Mr. SPG
 
-Machi adding second line in frist file
+Machi adding second line in frist file--Peter Mcsw\
